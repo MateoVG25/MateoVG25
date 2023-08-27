@@ -2,9 +2,17 @@
   <a href="https://github.com/MateoVG25/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Mateo+Vargas+Giraldo;Developer%2FAI+and+ML+enthusiast;Learn%2C+Collaborate+and+help+others" alt="Typing SVG" /></a>
 </div>
 
+**` Currently studying Machine learning and Artificial intelligence on my own (Developer/College Student) `**
+
 <p align="center">
-Currently studying Machine learning and Artificial intelligence on my own (Developer/College Student)
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+
+My goal is to become a highly skilled and experienced systems engineer with abilities such as
+designing and developing innovative solutions with the help of data. To achieve this goal, I have
+been constantly updating myself in technological trends such as data analysis or engineering, and I
+am also looking to learn from the expertise of my peers. As part of my training, I have worked in
+various teams to develop software projects. I am fully convinced that teamwork is the key to
+success, and I am committed to fostering a collaborative and productive environment to achieve
+any goal.
 </p>
 
 <div align="center">
