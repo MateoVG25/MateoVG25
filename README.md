@@ -67,16 +67,3 @@ any goal.
 
 ![Mateo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateoVG25&show_icons=true&theme=radical)
 <div align="center">
-
-### Spotify
-
-</div>
-
-<div align="center">
-  
-[![Hardstyle Music](https://img.shields.io/badge/Hardstyle%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/25M2UmrC1HhgeStBPnHYlb?si=4153d4787ce743ce) [![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/25M2UmrC1HhgeStBPnHYlb?si=4153d4787ce743ce)
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=h8rp8crx7yk8t72lrano65mc4&cover_image=true&theme=novatorem&show_offline=false&background_color=0d0d0d&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-</div>
-
