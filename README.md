@@ -2,7 +2,7 @@
   <a href="https://github.com/MateoVG25/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Mateo+Vargas+Giraldo;Developer%2FAI+and+ML+enthusiast;Learn%2C+Collaborate+and+help+others" alt="Typing SVG" /></a>
 </div>
 
-**` Currently studying Machine learning and Artificial intelligence on my own (Developer/College Student) `**
+**`  (Developer/College Student) `**
 
 <p align="center">
 
